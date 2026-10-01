@@ -1,0 +1,14 @@
+/Users/talal/Desktop/Today Thu/bin/Debug/net10.0/Today Thu
+/Users/talal/Desktop/Today Thu/bin/Debug/net10.0/Today Thu.deps.json
+/Users/talal/Desktop/Today Thu/bin/Debug/net10.0/Today Thu.runtimeconfig.json
+/Users/talal/Desktop/Today Thu/bin/Debug/net10.0/Today Thu.dll
+/Users/talal/Desktop/Today Thu/bin/Debug/net10.0/Today Thu.pdb
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.AssemblyInfo.cs
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.dll
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/refint/Today Thu.dll
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.pdb
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/Today Thu.genruntimeconfig.cache
+/Users/talal/Desktop/Today Thu/obj/Debug/net10.0/ref/Today Thu.dll
